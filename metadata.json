@@ -1,0 +1,5 @@
+{
+  "name": "com.timber.kubaturnik.app",
+  "description": "Профессиональный расчет кубатуры круглого леса.",
+  "requestFramePermissions": []
+}
